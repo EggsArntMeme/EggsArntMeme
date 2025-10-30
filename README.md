@@ -1,16 +1,13 @@
-## Hi there 👋
+## Howdy! Thanks for visiting 👋
+I currently have multiple projects going on, but a small handfull are:
+- Small platformer with metroidvania aspects
+- A desktop like personal page
+- and image processing using Python
 
-<!--
-**EggsArntMeme/EggsArntMeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently I'm learning:
+- GDScript
+- PHP
+- HTML / CSS / JS
 
-Here are some ideas to get you started:
+If you'd like to get in contact, Please reach me on Discord through my username: eggs42
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
