@@ -2,7 +2,8 @@
 I currently have multiple projects going on, but a small handfull are:
 - Small platformer with metroidvania aspects
 - A desktop like personal page
-- and image processing using Python
+- Image processing using Python
+- and a banner for here ;-;
 
 Currently I'm learning:
 - GDScript
